@@ -1,0 +1,346 @@
+PROJECT’s
+1.	Mark sheet
+2.	Aadhar card
+3.	Ayushman card
+4.	Vaccinations card
+OPERATOR
+1.	WAP to add two int value
+2.	WAP to add two float value
+3.	WAP to add two double value
+4.	WAP to add two long value
+5.	WAP to subtraction two int value
+6.	WAP to subtraction two float value
+7.	WAP to subtraction two double value
+8.	WAP to subtraction two long value
+9.	WAP to multiplication two int value
+10.	WAP to multiplication two float value
+11.	WAP to multiplication two double value
+12.	WAP to multiplication two long value
+13.	 WAP to division two int value
+14.	WAP to division two float value
+15.	WAP to division two double value
+16.	WAP to division two long value
+17.	 WAP to find cube of a numb
+MENSURATION
+1.	WAP to calculate area of circle
+2.	WAP to calculate circle diameter
+3.	WAP to calculate circumference of circle
+4.	WAP to calculate diameter to radius
+5.	WAP to calculate radius of circle
+6.	WAP to calculate base area of cone
+7.	WAP to calculate volume of cone
+8.	WAP to calculate diagonal of cube
+9.	WAP to calculate surface area of cube
+10.	WAP to calculate volume of cube
+11.	WAP to calculate base area of cylinder
+12.	WAP to calculate height of cylinder
+13.	WAP to calculate lateral surface of cylinder
+14.	WAP to calculate volume of cylinder
+15.	WAP to calculate area of rectangle
+16.	WAP to calculate circumference of rectangle
+17.	 WAP to calculate diagonal of rectangle
+18.	WAP to calculate perimeter of rectangle
+19.	WAP to calculate width of rectangle
+IF ELSE
+1.	WAP to check even odd numb
+2.	WAP to find greater among two number
+1.	WAP to find greater among three number
+2.	WAP to check eligible for voting or not
+3.	WAP to check negative positive or zero
+4.	WAP to check even or odd numb
+5.	WAP to check two numb equal or not
+6.	WAP to check Enter numb is divisively or not any numb
+7.	WAP to check to numb is greater or not
+8.	WAP to find sum of first and last digit any five digit numb
+9.	WAP to reverse of any four digit numb
+10.	WAP to check inter char Is upper case or lower case
+11.	WAP to check inter char is vowel or consonant
+12.	WAP to take any age and check age criteria (child, teen, young, old)
+13.	WAP to convert to lower case to upper case
+14.	WAP to convert to upper case to lower case
+15.	WAP to convert char to Assci value
+16.	WAP to calculate division of a student
+17.	 WAP to Check given character is vowel or not
+18.	Program to perform arithmetic operation (Calculator)
+19.	WAP to check given year is a leap year or not
+20.	WAP to convert temperature from Fahrenheit to Celsius and Celsius to Fahrenheit. 
+21.	WAP to check whether the triangle is equilateral, scalene, or isosceles. 
+22.	WAP to check whether a number is divisible by 5 and 11 or not.
+23.	WAP to input day number and print week day.
+24.	WAP  count total number of notes in given amount
+25.	WAP calculate profit or loss.
+26.	 WAP to take input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer.
+Calculate percentage and grade according to following:
+Percentage >= 90%: Grade A
+Percentage >= 80%: Grade B
+Percentage >= 70%: Grade C
+Percentage >= 60%: Grade D
+Percentage >= 40%: Grade E
+Percentage < 40%: Grade F
+
+27.	WAP to input electricity unit charges and calculate total electricity bill according to the given
+Condition: For first 100 units Rs. 5/unit for next 101 to 200 units Rs. 7/unit for next 201 to 300 units Rs. 12.0/unit for unit above 300 Rs. 16/unit 
+28.	 WAP to take input month number and print month name.
+29.	 WAP  count total number of year & month & Week And day numb in given Day
+30.	 WAP to input basic salary of an employee and calculate its Gross salary according to 12.5
+31.	WAP to check whether the triangle is valid or not
+32.	WAP to check elder men among three men
+
+SWITCH
+1.	WAP to calculate area of circle rectangle 
+2.	WAP to check negative positive or zero
+3.	WAP to check Vowel or consonant
+4.	WAP to take month numb and print month name
+5.	WAP to take day numb and print day name
+6.	
+TERNARY
+1.	WAP to check eligible for voting or not
+2.	WAP to check inter char is alphabet or not
+3.	WAP to check negative positive or zero
+4.	WAP to check even or odd numb
+5.	WAP to check greatest numb in three numb
+6.	WAP to check profit or loss
+7.	WAP to check Enter numb is divisively or not any numb
+LOOP
+1.	WAP to print hello World 10 time
+2.	WAP to print 1 to n natural numb
+3.	WAP to sum of n natural numb
+4.	WAP to print Even odd series
+5.	WAP to print n even odd num
+6.	WAP to find factorial of any numb
+7.	WAP to print Fibonacci series
+8.	WAP to check a numb is Armstrong  or not
+9.	WAP to Print n to n Armstrong numb
+10.	WAP to Print n Armstrong numb
+11.	WAP to check a numb is palindrome or not
+12.	WAP to Print n to n palindrome numb
+13.	WAP to Print n palindrome numb
+14.	WAP to check a numb is perfect  or not
+15.	WAP to Print n to n perfect numb
+16.	WAP to Print n even Num square
+17.	WAP to Print n odd Numb Square
+18.	WAP to check prime or not
+19.	WAP to Print n prime numb
+20.	WAP to Print n to n prime numb
+21.	WAP to Print n to n strong numb
+22.	WAP to Print numbers digit sum
+23.	WAP to Print product of n numb
+24.	WAP to print reverse of a numb
+25.	WAP to check strong numb or not
+26.	WAP to Print sum of even odd numb
+27.	 WAP to Print Table of any numb
+28.	 WAP to Find power of any numb
+29.	 WAP to generate random numb of a to 6
+30.	WAP to convert decimal to binary
+31.	WAP to convert binary to decimal
+32.	 WAP to convert decimal to octal
+33.	WAP to convert octal to decimal
+34.	 WAP to Find HCF of two numb
+35.	 WAP to print square series
+36.	WAP to print square series & sum
+37.	 WAP to print Table sum
+SERIES
+	Factorial
+1.	1 – 2 + 3  - 4 + 5 
+2.	1! + 2! + 3! + 4! + 5!
+3.	1!/1 + 2!/2 + 3!/3
+4.	1!/2 + 2!/3 + 3!/4
+5.	2/1! + 3/2! + 4/3! + 5/4! + 6/5!
+6.	1!/2 + 2!/4 + 3!/6 + 4!/8 + 5!/10
+7.	2/1! + 4/2! + 6/3! + 8/4! +10/5!
+8.	1!/2 + 2!/3 + 3!/5 + 4!/7 + 5!/9
+9.	1/1! + 3/2! + 5/3! + 7/4! + 9/5!
+POWER
+10.	x^1 + x^2 + x^3 + x^4 + x^5
+11.	 x^1/1 + x^2/2 + x^3/3 + x^4/4 + x^5/5
+12.	 1/x^1 + 2/x^2 + 3/x^3 + 4/x^4 + 5/x^5
+13.	 x^1/2 + x^2/3 + x^3/4 + x^4/5 + x^5/6
+14.	 2/x^1 + 3/x^2 + 4/x^3 + 5/x^4 + 6/x^5
+15.	 x^1/1 + x^2/3 + x^3/5 + x^4/7 + x^5/9
+16.	 1/x^1 + 3/x^2 + 3/x^3 + 7/x^4 + 9/x^5
+17.	 x^1/1! + x^2/2! + x^3/3! + x^4/4! + x^5/5!
+18.	 1!/x^1 + 2!/x^2 + 3!/x^3 + 4!/x^4 + 5!/x^5
+
+POWER FACTORIAL
+19.	2!  + 4!  + 6!  +8! + 10!
+20.	2!/2  + 4!/4  + 6!/6
+21.	2/2!  + 4/4!  + 6/6!  
+22.	1!  + 3!  + 5! +7! +9!9
+23.	1!/1  + 3!/3  + 5!/5
+24.	1/1!  + 3/3!  + 5/5!
+25.	x^2  + x^4  + x^6
+26.	x^2/2  + x^4/4  + x^6/4
+27.	2/x^2  + 4/x^4  + 6/x^6
+28.	 x^1  + x^3  + x^5
+29.	 x^1/1  + x^3/3  + x^5/5
+30.	 1/x^1  + 3/x^3  + 5/x^5
+31.	 x^1/X!  + x^3/X!  + x^5/X!
+32.	 X!/x^1  + X!/x^3  + X!/x^5
+33.	 x^1/2!  + x^3/4!  + x^5/6!
+34.	 2!/x^1  + 4!/x^3  + 6!/x^5
+35.	2!/1  + 4!/2  + 6!/3
+36.	 1/2!  + 2/4!  + 3/6!
+37.	 1!/1  + 3!/2  + 5!/3
+38.	 1/1!  + 2/3!  + 3/5!
+39.	 x^1/1  + x^3/2  + x^5/3
+40.	 1/x^1  + 2/x^3  + 3/x^5
+41.	 x^2/1  + x^4/2  + x^6/3
+42.	 1/x^2  + 2/x^4  + 3/x^6
+43.	 2!/1  + 4!/3  + 6!/5
+44.	 1/2!  + 3/4!  + 5/6!
+45.	 1!/2  + 3!/4  + 5!/6
+46.	 x^2/1  + x^4/3  + x^6/5
+47.	 1/x^2  + 3/x^4  + 5/x^6
+48.	 x^2/4  + x^4/6  + x^6/8
+49.	 4/2!  + 6/4!  + 8/6!
+50.	 x^1/4  + x^3/6  + x^5/8
+51.	 4/x^1  + 6/x^3  + 8/x^5
+52.	 x^1/2! + x^3/4! + x^5/6!
+53.	 2!/x^1 + 4!/x^3 + 6!/x^5
+54.	 x^2/1!  + x^4/3!  + x^6/5!
+55.	 1!/x^2  + 3!/x^4  + 5!/x^6
+Pattern
+1.	*****			2. *			3.    * * * * *         4. 	*    
+*****			     * *   		       * * * *  		         * * 
+*****			     * * * 		       * * * 		      * * *
+*****		    	     * * * * 		       * * 		   * * * *
+*****			     * * * * *		       *			* * * * *    
+  
+  5.   	* * * * *          	 6.   * 			7.    		   *
+  * * * *	                   * *			           * * *
+   	     * * *	                   *    *			        * * * * *
+         	        * *		        *       *			     * * * * * * *
+        		*		        * * * * *		  * * * * * * * * *
+
+  8.     	     *  	  		9.  	*           *    	 	 10.     1
+  * *   				     *   *			2   3
+           * * *				       *				4   5   6
+        * * * *       			     *   *			7   8    9   10
+     * * * * *                   		  *         *
+
+
+
+11.    1 2 3 4 5 4 3 2 1	12.      1		13.	1 2 3 4 5			
+  1 2 3 4 3 2 1		1 2			1 2 3 4 
+  	     1 2 3 2 1			1 2 3			1 2 3 
+   	         1 2 1			1 2 3 4		1 2 
+          		 1			1 2 3 4 5		1 
+
+
+14.    5 4 3 2 1  	15. 	1 1 1 1 1		16.  *  *
+  4 3 2 1		   2 2 2 2		        *  *  *  * 
+  	     3 2 1		      3 3 3		        *  *  *  *  *  *  *  *
+	        2 1		         4 4		        *  *  *  *  *  *  *  * *  *  * * * * *
+	           1			 5
+
+17.  	*			18.   *
+* * *			         *  *
+* * * * *		         *  *  *  *
+* * * * * * *		         *  *  *  *  *  *  *
+* * * * * * * * *	         *  *  *  *  *  *  *  *  *  *  *          
+
+19.  	*						20. 1
+* *						       0 1
+* * * *					       1 0 1
+* * * * * * * * * 				       0 1 0 1
+* * * * * * * * * * * * * * * *		       1 0 1 0 1
+    	  				
+        
+    21.    * * * * * * * * * 		22.      *		     *
+   * * * *   * * * *		            *  *	             *  *
+   * * *         * * *			* * *              * * *
+   * *               * *			* * * *       * * * *
+   *                     *			* * * * * * * * * *
+
+23. 	            A			24. I			25.  	   *  
+                 1    2   3			       IN				 * * 
+           b   c    d    e    f		       IND		           * * *
+      4   5   6    4    8   9  10		       INDI  		          * * * *
+g    h   i     j     k    l    m   n   o  	       INDIA 		        * * * * *
+
+
+26.      *			27.      *   *
+* *				*   *   *   *
+* * *				*   *   *   *   *   *   
+* * * *			*   *   *   *   *   *   *   *
+* * * * *			*   *   *   *   *   *   *   *   *   *
+* * * *			*   *   *   *   *   *   *   *
+* * *				*   *   *   *   *   *   
+* *				*   *   *   *
+*				*   *
+
+28. 	*				29 .             *			30. 		  1	
+* * *					         * 				  1
+* * * * *				     *  *  *			         3  3  3
+* * * * * * *				     *  *  *   			         3  3  3
+* * * * * * * * *			 *  *  *  *  *			     5  5  5  5  5
+* * * * * * *				 *  *  *  *  *			     5  5  5  5  5
+* * * * *
+* * *
+*
+
+31 .        *			32.       *       	  *  *  *  *			33. 	  	1
+           * * *				 *        	  *					      1         1
+        * * * * *			 *  *  *  *  *  *  *			     	  1       2        1
+     * * * * * * *			              *          *			        1       3       3        1
+  * * * * * * * * *		            *  *  *   *          *			    1       4       6       4        1
+     * * * * * * *							          1       5      10       10    5       1
+        * * * * *
+           * * *
+              *
+
+Array
+1.	WAP Take Array element and print Array.
+2.	WAP to Sum of Array Element
+3.	WAP to print 150 to 250 element
+4.	WAP to print element if element value greater 200
+5.	WAP to print element if element value greater 100
+6.	WAP Sort an Array using Bubble Sort
+7.	WAP Delete Duplicate Element of array
+8.	WAP Incres index value by 5
+9.	WAP Frequency of an element
+10.	 WAP Frequency of array elements
+11.	 WAP insert an element of a array
+12.	 WAP Sort an Array using Insection sort
+13.	 WAP Find Max Element of Array
+14.	 WAP Find min Element of Array
+15.	 WAP Find SMax Element of Array
+16.	WAP Find Smin Element of Array
+17.	 WAP reverse of a array and sum
+18.	 WAP search an element
+19.	 WAP Sort an Array using Selection Sort
+20.	 WAP to Find third min value of Array
+21.	 WAP to count even and odd value of array
+Total 21
+2D Array
+1.	WAP to Sum of matrix Element.
+2.	WAP Ascending Order of matrix row
+3.	WAP Ascending Order of matrix Colom
+4.	WAP Discending Order of matrix row
+5.	WAP Discending Order of matrix Colom
+6.	WAP Ascending Order of Array row & Descending order of Colom.
+7.	WAP Ascending Order of Array colom & Descending order of row.
+8.	WAP Diagonal of matrix (3 program)
+9.	WAP print Lower triangular of matrix & sum
+10.	WAP print upper triangular of matrix & sum
+11.	WAP Find Max Element of matrix
+12.	 WAP Find Smax Element of matrix
+13.	 WAP Find Min Element of matrix
+14.	 WAP Find Smin Element of matrix
+15.	 WAP to Transpose of Matrix
+16.	 WAP to Sum of two Matrix
+17.	 WAP to Multiplication of two Matrix
+18.	 WAP Take matrix element and print matrix.
+19.	WAP to print 
+   		1	 2 	3	 4	   5
+		6         				  10
+		11				  15
+		16 	  			  20
+		21 	22	 23	24	  25
+20.	WAP to print 
+   		 7	8	9	
+		12	13	14
+		17	18	19
+
+Total = 23
+
