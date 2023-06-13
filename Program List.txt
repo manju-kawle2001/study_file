@@ -337,9 +337,14 @@ Total 21
 		16 	  			   20
 		21 	22	 23	 24	   25
 20.	WAP to print 
-   		 7	8	9	
+   		7	8	9	
 		12	13	14
 		17	18	19
 
 Total = 23
 
+Recursion
+1. WAP to find the factorial of given num using recrtion.
+2. WAP to find power of any num.
+3. WAP to sum of 1 to n natural num.
+4. WAP to sum of Given number Digit Sum.
