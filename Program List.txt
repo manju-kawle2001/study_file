@@ -41,7 +41,9 @@ MENSURATION
 17.	WAP to calculate diagonal of rectangle
 18.	WAP to calculate perimeter of rectangle
 19.	WAP to calculate width of rectangle
+
 IF ELSE
+
 1.	WAP to check even odd numb
 2.	WAP to find greater among two number
 1.	WAP to find greater among three number
@@ -122,7 +124,7 @@ LOOP
 18.	WAP to check prime or not
 19.	WAP to Print n prime numb
 20.	WAP to Print n to n prime numb
-21.	WAP to Print n to n strong numb
+21.	WAP to Print n to n strong num
 22.	WAP to Print numbers digit sum
 23.	WAP to Print product of n numb
 24.	WAP to print reverse of a numb
@@ -311,6 +313,7 @@ Array
 20.	WAP to Find third min value of Array
 21.	WAP to count even and odd value of array
 Total 21
+
 2D Array
 1.	WAP to Sum of matrix Element.
 2.	WAP Ascending Order of matrix row
@@ -319,23 +322,23 @@ Total 21
 5.	WAP Discending Order of matrix Colom
 6.	WAP Ascending Order of Array row & Descending order of Colom.
 7.	WAP Ascending Order of Array colom & Descending order of row.
-8.	WAP Diagonal of matrix (3 program)
-9.	WAP print Lower triangular of matrix & sum
-10.	WAP print upper triangular of matrix & sum
-11.	WAP Find Max Element of matrix
-12.	WAP Find Smax Element of matrix
-13. WAP Find Min Element of matrix
-14. WAP Find Smin Element of matrix
-15. WAP to Transpose of Matrix
-16. WAP to Sum of two Matrix
-17. WAP to Multiplication of two Matrix
+8.	WAP Diagonal of matrix (3 program).
+9.	WAP print Lower triangular of matrix & sum.
+10.	WAP print upper triangular of matrix & sum.
+11.	WAP Find Max Element of matrix.
+12.	WAP Find Smax Element of matrix.
+13. WAP Find Min Element of matrix.
+14. WAP Find Smin Element of matrix.
+15. WAP to Transpose of Matrix.
+16. WAP to Sum of two Matrix.
+17. WAP to Multiplication of two Matrix.
 18. WAP Take matrix element and print matrix.
 19.	WAP to print 
-   		1	 2   3	 4	   5
-		6         		   10
-		11				   15
-		16 	  			   20
-		21 	22	 23	 24	   25
+   		1	 2   3	 4	  5
+		6         		  10
+		11				  15
+		16 	  			  20
+		21 	22	 23	 24	  25
 20.	WAP to print 
    		7	8	9	
 		12	13	14
@@ -348,3 +351,14 @@ Recursion
 2. WAP to find power of any num.
 3. WAP to sum of 1 to n natural num.
 4. WAP to sum of Given number Digit Sum.
+5. WAP to check a num is armstrong num .
+6. WAP to check a num is Palindrome or not.
+7. WAP to reverse of a number.
+8. WAP to check a num is strong numb
+9. WAP to check a num is prime or not
+10.WAP to check a numb is perfect or not
+
+OOPS
+
+1. WAP to sum of time Make a Object.
+2. WAP to Add to persion hight.
