@@ -362,3 +362,4 @@ OOPS
 
 1. WAP to sum of time Make a Object.
 2. WAP to Add to persion hight.
+3. WAP to count total object is to be present in your program
